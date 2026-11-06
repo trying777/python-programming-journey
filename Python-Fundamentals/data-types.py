@@ -40,15 +40,15 @@
 # print(type(x))
 
 # Q9. Create variables for product name, price, quantity and availability. Print all details and their types.
-product_name="laptop"
-price=60000
-quantity=2
-availability=True
-print(product_name,price,quantity,availability)
-print(type(product_name))
-print(type(price))
-print(type(quantity))
-print(type(availability))
+# product_name="laptop"
+# price=60000
+# quantity=2
+# availability=True
+# print(product_name,price,quantity,availability)
+# print(type(product_name))
+# print(type(price))
+# print(type(quantity))
+# print(type(availability))
 
 # Q10. Create two variables a = 10 and b = 10.0. Check whether their data types are the same.
 # a=10

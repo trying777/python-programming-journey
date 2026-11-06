@@ -61,13 +61,13 @@
 # print(b)
 
 #Q11. Add an integer 10 and float 20.5. Print the result and its data type.
-a=10
-b=20.5
-total=a+b
-print(total)
-print(type(total))
-print(type(a))
-print(type(b)) 
+# a=10 
+# b=20.5
+# total=a+b
+# print(total)
+# print(type(total))
+# print(type(a))
+# print(type(b)) 
 
 
 # Q12. Convert the string '250' into an integer, then into a float. Print both results and their types.
