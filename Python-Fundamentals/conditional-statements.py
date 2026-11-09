@@ -116,24 +116,26 @@
 #     print("cant form valid triangle")
 
 # Q15. Create a simple calculator using if-elif-else that supports +, -, * and /.
-print("simple calculator")
-print("addition")
-print("subtraction")
-print("multiplition")
-print("division")
-operation=input("select a operation:").lower()
-num1=float(input("enter a 1st number:"))
-num2=float(input("enter a 2nd number:"))
-if operation=="addition" or operation=="add":
-    print(num1+num2)
-elif operation=="subtraction" or operation=="sub":
-    print(num1-num2)
-elif operation== "multiplication" or operation=="mul":
-    print(num1*num2)
-elif operation== "division" or operation=="div":
-    print(num1/num2)
-else:
-    print("invalid operation")
+# print("simple calculator")
+# print("addition")
+# print("subtraction")
+# print("multiplition")
+# print("division")
+# operation=input("select a operation:").lower()
+# num1=float(input("enter a 1st number:"))
+# num2=float(input("enter a 2nd number:"))
+# if operation=="addition" or operation=="add":
+#     print(num1+num2)
+# elif operation=="subtraction" or operation=="sub":
+#     print(num1-num2)
+# elif operation== "multiplication" or operation=="mul":
+#     print(num1*num2)
+# elif operation== "division" or operation=="div":
+#     print(num1/num2)
+# else:
+#     print("invalid operation")
+
+
 
 
 
